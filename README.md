@@ -10,4 +10,4 @@
 
 ## Stack
 
-![My Skills](https://skillicons.dev/icons?i=nodejs)
+![My Skills](https://skillicons.dev/icons?i=nodejs,js)
